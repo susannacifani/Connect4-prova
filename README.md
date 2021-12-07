@@ -1,9 +1,7 @@
 # Connect4
-A Connect 4 game developed in Java using JavaFX.
+Il gioco Forza 4 è stato sviluppato in Java come un progetto Intellij.
 
-Was developed as an eclipse project.
-
-When the game starts, on the intro dialog window, users can enter name for each player (colour). If no names are given, defaults are used (red and yellow). A saved game can be loaded. Selecting new game starts the game. First turn is randomised each time the game starts.
+All'avvio del gioco, nella finestra di dialogo introduttivo, gli utenti possono inserire il nome di ciascun giocatore (colore). Se non viene fornito alcun nome, vengono utilizzati i valori predefiniti null. È possibile caricare una partita salvata. La selezione di un nuovo gioco avvia il gioco. Il primo turno è assegnato sempre al primo giocatore ogni volta che inizia il gioco.
 
 # To Run
-Run Connect_4_win.jar or import and run from any java IDE.
+Importare il progetto ed eseguirne il Main da qualsiase IDE Java.
