@@ -1,0 +1,6 @@
+test di errore:
+scelta di un 
+file che non contiene
+una partita salvata, 
+ma che è un semplice
+file di testo casuale

@@ -1,0 +1,7 @@
+Chiara
+Federica
+true
+la
+matrice
+è
+casuale
